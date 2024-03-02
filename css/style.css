@@ -5779,3 +5779,12 @@ figure{
   height: 425px;
   width: 100%;
 }
+
+.img2{
+  height: 700px;
+  object-fit:cover; 
+  
+}
+.img3{
+
+}
