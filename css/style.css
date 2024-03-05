@@ -5781,10 +5781,14 @@ figure{
 }
 
 .img2{
-  height: 700px;
-  object-fit:cover; 
+ 
+  object-fit:fit; 
   
 }
 .img3{
 
+}
+
+.img7{
+  object-fit: contain;
 }
