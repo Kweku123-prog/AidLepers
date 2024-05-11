@@ -486,7 +486,7 @@ figure{
   -webkit-transition: all 900ms ease;
   -ms-transition: all 900ms ease;
   -o-transition: all 900ms ease;
-  background-color: rgba(255, 94, 20, 0.80);
+
   -moz-transform: rotateX(-180deg);
   -webkit-transform: rotateX(-180deg);
   -ms-transform: rotateX(-180deg);
@@ -528,7 +528,7 @@ figure{
   height: 50px;
   line-height: 52px;
   background: #ffffff;
-  color: #ff5e14;
+ 
   text-align: center;
   border-radius: 50%;
 }
